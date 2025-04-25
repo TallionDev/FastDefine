@@ -1,0 +1,2 @@
+# FastDefine
+FastDefine MT2
